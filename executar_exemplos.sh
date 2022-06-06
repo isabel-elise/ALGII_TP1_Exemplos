@@ -1,5 +1,7 @@
 #! /bin/bash
 
+chmod +x main.py
+
 ./main.py -c ex1.txt
 ./main.py -x ex1.z78 -o ex1_out.txt
 
